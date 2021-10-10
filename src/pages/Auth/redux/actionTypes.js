@@ -1,0 +1,2 @@
+export const USER_SIGN_UP = 'USER_SIGN_UP';
+export const SET_LOGIN_USER_INFO = 'SET_LOGIN_USER_INFO';
